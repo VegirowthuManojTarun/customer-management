@@ -10,9 +10,6 @@ backend/node_modules/
 # Ignore environment variables files
 .env
 
-# Ignore build output
-dist/
-build/
 
 # Ignore OS-specific files
 .DS_Store
